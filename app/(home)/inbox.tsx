@@ -16,7 +16,7 @@ const Profile = () => {
                    </Link>   
                 </View>
                 <View className="flex-1 justify-between items-center">
-                    <Text className="text-2xl font-bold">Profile</Text>      
+                    <Text className="text-2xl font-bold">Inbox</Text>      
                     </View> 
         </View> 
   )
